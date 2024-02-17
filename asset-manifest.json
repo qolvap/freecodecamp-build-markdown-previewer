@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/freecodecamp-build-markdown-previewer/static/css/main.cb292eb4.css",
+    "main.js": "/freecodecamp-build-markdown-previewer/static/js/main.a9c3b629.js",
+    "index.html": "/freecodecamp-build-markdown-previewer/index.html",
+    "main.cb292eb4.css.map": "/freecodecamp-build-markdown-previewer/static/css/main.cb292eb4.css.map",
+    "main.a9c3b629.js.map": "/freecodecamp-build-markdown-previewer/static/js/main.a9c3b629.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb292eb4.css",
+    "static/js/main.a9c3b629.js"
+  ]
+}
